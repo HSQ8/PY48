@@ -9,4 +9,4 @@ $python3 gameGUI.py
 
 enjoy!
 
-![Start Screen](https://raw.github.com/HSQ8/PY48/blob/master/start.PNG)
+![Start Screen](https://raw.github.com/HSQ8/PY48/master/start.PNG)
