@@ -9,4 +9,4 @@ $python3 gameGUI.py
 
 enjoy!
 
-![Alt text](/../PY48/start.png?raw=true "Start Screen")
+![Alt text](/PY48/start.png?raw=true "Start Screen")
