@@ -10,5 +10,5 @@ $python3 gameGUI.py
 enjoy!
 
 ![Start Screen](https://raw.github.com/HSQ8/PY48/master/start.PNG)
-![Start Screen](https://raw.github.com/HSQ8/PY48/master/ingame.PNG)
-![Start Screen](https://raw.github.com/HSQ8/PY48/master/over.PNG)
+![In Game](https://raw.github.com/HSQ8/PY48/master/ingame.PNG)
+![Game Over](https://raw.github.com/HSQ8/PY48/master/over.PNG)
